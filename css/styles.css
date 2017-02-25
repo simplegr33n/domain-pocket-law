@@ -1,0 +1,33 @@
+body {
+	background-color: #3b5198;
+}
+
+#under-construction {
+	width:300px;
+	height:200px;
+	background-color: #f21e1e;
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin:-100px 0 0 -150px;
+}
+
+.title-text-center {
+	position: relative;
+	top: 15%;
+	font-size: 35px;
+	font-family: arial;
+	text-align: center;
+	text-shadow: 2px 2px 6px #3b5198;
+	color: #FFFFFF;
+	font-weight: 700;
+}
+
+.status-text-center {
+	font-size: 20px;
+	font-family: arial;
+	text-align: center;
+	text-shadow: 1px 1px 3px #3b5198;
+	color: #FFFFFF;
+	font-weight: 700;
+}
