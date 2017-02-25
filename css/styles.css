@@ -2,10 +2,10 @@ body {
 	background-color: #f21e1e;
 }
 
-.center-div {
+#id-under-construction {
 	position:absolute;
 	width: 512px;
-	margin:0px auto;
+	margin:40px auto;
 	left:0;
 	right:0;
 }
