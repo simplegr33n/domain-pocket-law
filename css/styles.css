@@ -2,6 +2,10 @@ body {
 	background-color: #f21e1e;
 }
 
+a {
+	text-decoration: none;
+}
+
 #id-under-construction {
 	position:absolute;
 	width: 512px;
