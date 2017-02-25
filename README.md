@@ -1,7 +1,7 @@
 # Pocket Law Website
 
 Check it out live here: 
-http://www.pocket-law.ca
+http://pocketlaw.org
 
 
 ## Screenshots
