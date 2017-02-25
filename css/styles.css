@@ -1,20 +1,18 @@
 body {
-	background-color: #3b5198;
+	background-color: #f21e1e;
 }
 
-#under-construction {
-	width:300px;
-	height:200px;
-	background-color: #f21e1e;
+.center-div {
 	position:absolute;
-	left:50%;
-	top:50%;
-	margin:-100px 0 0 -150px;
+	width: 512px;
+	margin:0px auto;
+	left:0;
+	right:0;
 }
 
 .title-text-center {
+	margin-top: -10px;
 	position: relative;
-	top: 15%;
 	font-size: 35px;
 	font-family: arial;
 	text-align: center;
@@ -24,6 +22,7 @@ body {
 }
 
 .status-text-center {
+	margin-top: -5px;
 	font-size: 20px;
 	font-family: arial;
 	text-align: center;
