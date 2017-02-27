@@ -6,7 +6,7 @@ http://pocketlaw.org
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/simplegr33n/domain-pocket-law/master/resources/facebook-image.png" width="750">
+<img src="https://raw.githubusercontent.com/simplegr33n/domain-pocket-law/master/resources/branding/facebook-image.png" width="750">
 
 
 
